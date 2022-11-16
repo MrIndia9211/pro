@@ -1,0 +1,11 @@
+Model Information:
+* title:	HCR2 Buggy
+* source:	https://sketchfab.com/3d-models/hcr2-buggy-a65fe5c27464448cbce7fe61c49159ef
+* author:	oakar258 (https://sketchfab.com/oakar258)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HCR2 Buggy" (https://sketchfab.com/3d-models/hcr2-buggy-a65fe5c27464448cbce7fe61c49159ef) by oakar258 (https://sketchfab.com/oakar258) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

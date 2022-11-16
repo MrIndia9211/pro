@@ -1,0 +1,11 @@
+Model Information:
+* title:	Box Obstacle
+* source:	https://sketchfab.com/3d-models/box-obstacle-c74b95803cd9451b9ea2f22d368a3c08
+* author:	siddhant (https://sketchfab.com/siddhantm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Box Obstacle" (https://sketchfab.com/3d-models/box-obstacle-c74b95803cd9451b9ea2f22d368a3c08) by siddhant (https://sketchfab.com/siddhantm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

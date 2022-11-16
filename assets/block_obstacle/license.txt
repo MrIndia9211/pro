@@ -1,0 +1,11 @@
+Model Information:
+* title:	BLOCK obstacle
+* source:	https://sketchfab.com/3d-models/block-obstacle-4ca25e34fdc34926adbb4fcf59a851f8
+* author:	JeremyV (https://sketchfab.com/JeremyV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BLOCK obstacle" (https://sketchfab.com/3d-models/block-obstacle-4ca25e34fdc34926adbb4fcf59a851f8) by JeremyV (https://sketchfab.com/JeremyV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

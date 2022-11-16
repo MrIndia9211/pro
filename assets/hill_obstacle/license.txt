@@ -1,0 +1,11 @@
+Model Information:
+* title:	HILL Obstacle
+* source:	https://sketchfab.com/3d-models/hill-obstacle-4581d27d23a74cab9f69473e270f7bd8
+* author:	JeremyV (https://sketchfab.com/JeremyV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HILL Obstacle" (https://sketchfab.com/3d-models/hill-obstacle-4581d27d23a74cab9f69473e270f7bd8) by JeremyV (https://sketchfab.com/JeremyV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
